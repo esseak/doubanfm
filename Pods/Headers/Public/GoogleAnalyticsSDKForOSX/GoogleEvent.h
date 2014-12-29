@@ -1,0 +1,1 @@
+../../../GoogleAnalyticsSDKForOSX/Google Analytics SDK for OSX/Classes/GoogleEvent.h

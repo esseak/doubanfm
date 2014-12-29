@@ -1,0 +1,23 @@
+PODS:
+  - CocoaLumberjack (2.0.0-beta4):
+    - CocoaLumberjack/Default
+    - CocoaLumberjack/Extensions
+  - CocoaLumberjack/Core (2.0.0-beta4)
+  - CocoaLumberjack/Default (2.0.0-beta4):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.0-beta4):
+    - CocoaLumberjack/Default
+  - GoogleAnalyticsSDKForOSX (1.0.0):
+    - CocoaLumberjack
+  - MSWeakTimer (1.1.0)
+
+DEPENDENCIES:
+  - GoogleAnalyticsSDKForOSX (~> 1.0.0)
+  - MSWeakTimer (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 24153b24b17d853d7182b22b128971fb98e8cb18
+  GoogleAnalyticsSDKForOSX: 459b2a30a57404e11063e12491ffedd4358ec83a
+  MSWeakTimer: 6bd071c058fd49daa62013e4ae70caf61d0f2dc2
+
+COCOAPODS: 0.34.4
